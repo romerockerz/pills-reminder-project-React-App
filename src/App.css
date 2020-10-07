@@ -7,6 +7,43 @@
   pointer-events: none;
 }
 
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.events{
+  margin: 20px 10px;
+}
+
+.paddingtop{
+  padding-top: 25px;
+}
+
+.cardposition{
+  margin-top: 7pc;
+}
+
+.medhistoryform{
+  margin-top: 15pc;
+}
+
+.paddingleft{
+  padding-left: 90px;
+}
+
+.paddingright{
+  padding-right: 50px;
+}
+
+.spaceleft{
+  margin-left: 270px;
+}
+
+.tableborderprofile{
+  border: 2px dodgerblue;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
